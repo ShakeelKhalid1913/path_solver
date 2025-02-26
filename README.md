@@ -97,7 +97,3 @@ path_solver/
 
 **Shakeel Khalid**
 - GitHub: [@shakeelkhalid1913](https://github.com/shakeelkhalid1913)
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
